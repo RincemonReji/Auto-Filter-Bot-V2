@@ -64,6 +64,6 @@ Bot will automatically search for your files and give links to that!
 
 ⭕️<b>Hosted :</b> <a href='https://Amazon.com/'>Amazon</a> 
 
-⭕️<b>support Group:</b> <a href='https://t.me/joinchat/Tb-f8lNcwAH0Q7sTjr1tew'>Video Link</a> 
+⭕️<b>support Group :</b> <a href='https://t.me/joinchat/Tb-f8lNcwAH0Q7sTjr1tew'>Video Link</a> 
 
 """
