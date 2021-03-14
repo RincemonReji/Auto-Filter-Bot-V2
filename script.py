@@ -53,17 +53,17 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @filmsandtrends_owner</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @filmsandtrends_owner
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Hosted :</b> <a href='https://Amazon.com/'>Amazon</a> 
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>support Group:</b> <a href='https://t.me/joinchat/Tb-f8lNcwAH0Q7sTjr1tew'>Video Link</a> 
 
 """
